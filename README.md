@@ -1,4 +1,4 @@
-# Font de dades per l'avaluació de Publicació de Cartografia
+# Fonts de dades per l'avaluació de Publicació de Cartografia
 
 Fitxers de dades i geometries utilitzats per a la visualització de mapes amb Leaflet.
 
