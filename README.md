@@ -12,7 +12,7 @@ URL: https://www.icgc.cat/ca/Geoinformacio-i-mapes/Dades-i-productes/Geoinformac
 ### `censph-17092-20490-mun.csv`
 Habitatges per tipus d'ús d'intensitat elèctrica. Municipis de Catalunya, 2021.  
 Font: Idescat, a partir del Cens de població i habitatges de l'INE.  
-URL: https://www.idescat.cat/pub/?id=censph&n=30&geo=mun
+URL: https://www.idescat.cat/pub/?id=censph&n=17092
 
 **Categories:**
 - `EMPT_DW_EL_C_MIN` — Habitatges buits: consum elèctric inferior al llindar mínim
